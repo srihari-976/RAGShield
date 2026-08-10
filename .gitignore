@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment & secrets
+.env
+*.pid
+*.token
+
+# Runtime data / logs
+backend/data/files/
+data/*.log
+data/uvicorn.*.log
+data/ollama.*.log
+data/login.json
+data/embed_*.json
+data/doc_*.json
+data/doc_ids.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

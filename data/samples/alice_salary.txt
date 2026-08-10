@@ -1,0 +1,9 @@
+﻿Alice Salary Record
+
+Employee: Alice Smith
+Employee ID: EMP-001
+Monthly Salary: 85000 INR
+Designation: AI Engineer
+Department: Engineering
+
+This record is confidential and restricted.

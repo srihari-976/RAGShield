@@ -1,0 +1,9 @@
+﻿Bob Salary Record
+
+Employee: Bob Jones
+Employee ID: EMP-002
+Monthly Salary: 95000 INR
+Designation: Data Engineer
+Department: Engineering
+
+This record is confidential and restricted.
